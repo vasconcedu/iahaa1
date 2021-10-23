@@ -24,7 +24,7 @@ The following vulnerabilities were introduced purposefully into Iahaa1:
 ## License
 MIT License
 
-Copyright (c) 2020 vasconcedu
+Copyright (c) 2021 Eduardo Vasconcelos
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
