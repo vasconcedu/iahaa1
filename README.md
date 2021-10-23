@@ -19,6 +19,7 @@ The following vulnerabilities were introduced purposefully into Iahaa1:
 - Presence of sensitive unprotected component
 - Weak crypto
 - Unnecessary logging of sensitive information
+- PendingIntent
 
 ## License
 MIT License
