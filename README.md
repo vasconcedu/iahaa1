@@ -7,7 +7,7 @@ Iahaa1: Insecure as heck Android app (version 1) is a purposefully insecure Andr
 ## Author
 Eduardo Vasconcelos (vasconcedu)
 
-https://tereresecurity.wordpress.com/
+https://vasconcedu.github.io/
 
 ## Vulnerabilities
 
